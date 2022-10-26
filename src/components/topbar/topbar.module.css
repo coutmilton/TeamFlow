@@ -1,0 +1,76 @@
+.main {
+    max-height: 9.125rem;
+    margin-left: 10.4rem;
+    margin-right: 10.4rem;
+}
+
+.wrapper {
+    display: flex;
+    position: relative;
+}
+
+.logo {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    margin-left: 0;
+    font-size: 1.5rem;
+    margin-top: 4rem;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.menu {
+    margin-top: 4rem;
+    justify-content: center;
+    text-align: center;
+    margin-left: 10rem;
+}
+
+@media only screen and (max-device-width: 1400px) {
+    .main {
+        margin-left: 5rem;
+        margin-right: 5rem;
+    }
+    .menu {
+        margin-left: 14rem;
+    }
+    .menu span {
+        margin-right: 0;
+    }
+}
+
+@media only screen and (max-device-width: 900px) {
+    .main {
+        margin-left: .5rem;
+        margin-right: .5rem;
+    }
+    .menu {
+        margin-top: 4rem;
+        margin-left: .5rem;
+    }
+    .menu span {
+        margin-right: 0;
+    }
+}
+
+.menu span {
+    margin-right: 3.75rem;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.get {
+    margin-top: 3rem;
+    justify-content: center;
+    text-align: center;
+}
+
+.get button {
+    border: none;
+    background-color: #ECE5FF;
+    border-radius: 4px;
+    color: #794CFF;
+    font-weight: 500;
+    padding: 1rem 1.4rem 1rem 1.4rem;
+    cursor: pointer;
+}
