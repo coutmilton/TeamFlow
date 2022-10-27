@@ -1,4 +1,5 @@
-import Topbar from "./components/topbar/Topbar"
+import Manage from "./components/Manage/Manage"
+import Topbar from "./components/Topbar/Topbar"
 
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
   return (
     <div className="App">
         <Topbar />
+        <Manage />
     </div>
   )
 }

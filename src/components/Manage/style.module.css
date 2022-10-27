@@ -1,0 +1,28 @@
+.main {
+    height: 26.25rem;
+}
+
+.promo {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.promo button {
+    padding: 8px 16px 8px 16px;
+    border-radius: 100px;
+    position: relative;
+    margin-right: -32px;
+    border: none;
+    background-color: #81C43B;
+    color: white;
+    cursor: pointer;
+}   
+
+.promo span {
+    background-color: #F2F9EB;
+    padding: 8px 22px 8px 40px;
+    border-bottom-right-radius: 100px;
+    border-top-right-radius: 100px;
+    color:black;
+    cursor: pointer;
+}
