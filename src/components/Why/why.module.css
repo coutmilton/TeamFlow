@@ -1,0 +1,99 @@
+.main {
+    height: 888px;
+}
+
+.wrapper {
+    margin-top: 100px;
+}
+
+.whyText {
+    text-align: center;
+}
+
+.whyText h1 {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    color: #35414B;
+    margin-bottom: 48px;
+}
+
+.whyText span {
+    font-size: 18px;
+    line-height: 32px;
+    color: #4E5A65;
+}
+
+.peaple{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.person {
+    display: flex;
+    width: 264px;
+    border-top: 4px solid #35414B;
+    margin-right: 90px;
+}
+
+.person img {
+    margin-top: 24px;
+    margin-right: 16px;
+}
+
+.personText {
+    margin-top: 28px;
+}
+.personText h1 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #35414B;
+}
+
+.personText span {
+    color: #4E5A65;
+}
+
+.personOther {
+    display: flex;
+    width: 264px;
+    margin-right: 90px;
+}
+
+.personOther img {
+    margin-top: 24px;
+    margin-right: 16px;
+}
+
+.alignBanner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.banner{
+    margin-top: 104px;
+    height: 224px;
+    width: 1110px;
+    background-color: #796EFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px;
+}
+
+.bannerText {
+    margin-right: 143px;
+}
+
+.bannerText span {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    color: white;
+}
+
+.bannerIcon img{
+    margin-left: 24px;
+    cursor: pointer;
+}

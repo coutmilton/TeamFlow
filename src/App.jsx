@@ -3,6 +3,7 @@ import Manage from "./components/Manage/Manage"
 import Subbar from "./components/Subbar/Subbar"
 import Team from "./components/Team/Team"
 import Topbar from "./components/Topbar/Topbar"
+import Why from "./components/Why/Why"
 import Work from "./components/Work/Work"
 
 
@@ -17,6 +18,7 @@ function App() {
         <Team />
         <Make />
         <Work />
+        <Why />
     </div>
   )
 }
