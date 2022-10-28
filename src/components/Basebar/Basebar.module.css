@@ -1,0 +1,95 @@
+.main {
+    height: 467px;
+    background-color: #1D2830;
+}
+
+.colunm {
+    margin-left: -300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.colunmText {
+    justify-content: center;
+    margin-left: 180px;
+}
+
+.colunmOne {
+    margin-top: 35px;
+    justify-content: center;
+    margin-left: 180px;
+}
+
+.colunmOne h1 {
+    margin-top: 80px;
+    font-weight: 600;
+    color: white;
+    font-size: 1rem;
+}
+
+.colunmOne li {
+    list-style-type: none;
+    margin-top: 24px;
+    color: white;
+    cursor: pointer;
+}
+
+.colunmText h1 {
+    margin-top: 80px;
+    font-weight: 600;
+    color: white;
+    font-size: 1rem;
+}
+
+.colunmText li {
+    list-style-type: none;
+    margin-top: 24px;
+    color: white;
+    cursor: pointer;
+}
+
+.icons {
+    margin-left: 189px;
+}
+
+.iconsImg {
+    margin: auto;
+}
+
+.icons h1 {
+    margin-top: 53px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: white;
+}
+
+.rodape {
+    margin-top: 80px;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    border-top: 1px solid grey;
+}
+
+.reserved{
+    margin-top: 20px;
+    margin-left: 170px;
+}
+
+.reserved span {
+    font-size: 14px;
+    color: #D9DBE1;
+}
+
+.rodapeIcons {
+    margin-top: 20px;
+    margin-right: 170px;
+
+}
+
+.rodapeIcons img {
+    margin-left: 24px;
+    cursor: pointer;
+}

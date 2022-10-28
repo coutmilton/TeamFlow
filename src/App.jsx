@@ -1,3 +1,4 @@
+import Basebar from "./components/Basebar/Basebar"
 import Make from "./components/Make/Make"
 import Manage from "./components/Manage/Manage"
 import Subbar from "./components/Subbar/Subbar"
@@ -19,6 +20,7 @@ function App() {
         <Make />
         <Work />
         <Why />
+        <Basebar />
     </div>
   )
 }
