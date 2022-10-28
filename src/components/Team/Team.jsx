@@ -5,7 +5,7 @@ function Team() {
         <div className={styles.main}>
             <div className={styles.wrapper}>
                 <div className={styles.chat}>
-                    <img src="./assets/img2.png" />
+                    <img src="./assets/img2.svg" />
                 </div>
                 <div className={styles.team}>
                     <div className={styles.teamTitle}>

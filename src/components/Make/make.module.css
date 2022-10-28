@@ -1,0 +1,73 @@
+.main {
+    height: 739px;
+}
+
+.wrapper {
+    margin-top: 139px;
+}
+
+.title h1 {
+    text-align: center;
+    margin-bottom: 56px;
+    color: #35414B;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 40px;
+}
+
+.makeOne {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.makeTwo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner {
+    margin-left: 120px;
+}
+
+.banner img {
+    width: 64px;
+    margin-bottom: 24px;
+}
+
+.banner h1 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+    margin-bottom: 8px;
+    color: #35414B;
+}
+
+.banner span {
+    color: #4E5A65;
+    line-height: 24px;
+}
+
+.bannerFive {
+    margin-left: 155px;
+}
+
+.bannerFive img {
+    width: 64px;
+    margin-bottom: 24px;
+}
+
+.bannerFive h1 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+    margin-bottom: 8px;
+    color: #35414B;
+}
+
+.bannerFive span {
+    color: #4E5A65;
+    line-height: 24px;
+}
