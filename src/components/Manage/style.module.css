@@ -1,5 +1,5 @@
 .main {
-    height: 26.25rem;
+    height: 71.375rem;
 }
 
 .promo {
@@ -64,4 +64,13 @@
     border-top-right-radius: 4px;
     padding: 18px 45px 18px 45px;
     cursor: pointer;
+}
+
+.image {
+    margin-top: 48px;
+    margin-left: 260px;
+    width: 920px;
+    height: 654px;
+    align-items: center;
+    justify-content: center;
 }

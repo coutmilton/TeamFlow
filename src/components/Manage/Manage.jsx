@@ -20,6 +20,7 @@ function Manage() {
                     <input placeholder="name@yourcompany.com" type="text" />
                     <button>Try it free</button>
                 </div>
+                <img src='./assets/img1.png' className={styles.image}/>
             </div>
         </div>
     );
