@@ -1,0 +1,64 @@
+.main {
+    height: 640px;
+    background-color: #F0EBFA;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.chat {
+    align-items: center;
+}
+
+.chat img {
+    margin-top: 61px;
+    margin-left: 165px;
+    width: 657px;
+    height: 518px;
+}
+
+.team {
+    margin-top: 61px;
+    margin-left: 80px;
+}
+
+.teamTitle{
+    background-color: #F6F3FC;
+    height: 108px;
+    width: 372px;
+    padding-left: 32px;
+    padding-top: 26px;
+    border-left: 8px solid #794CFF;
+}
+
+.teamTitle h1 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+    margin-bottom: 10px;
+}
+
+.teamTitle span {
+    font-size: 1rem;
+    line-height: 24px;
+}
+
+.teamText {
+    height: 108px;
+    width: 372px;
+    padding-left: 32px;
+    padding-top: 26px;
+}
+
+.teamText h1 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+    margin-bottom: 10px;
+}
+
+.teamText span {
+    font-size: 1rem;
+    line-height: 24px;
+}

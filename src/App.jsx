@@ -1,5 +1,6 @@
 import Manage from "./components/Manage/Manage"
 import Subbar from "./components/Subbar/Subbar"
+import Team from "./components/Team/Team"
 import Topbar from "./components/Topbar/Topbar"
 
 
@@ -11,6 +12,7 @@ function App() {
         <Topbar />
         <Manage />
         <Subbar />
+        <Team />
     </div>
   )
 }
