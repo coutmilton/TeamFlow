@@ -9,7 +9,8 @@ function Manage() {
                     <span className={styles.get}>Get account of $59</span>
                 </div>
                 <div className={styles.manageText}>
-                    <span>Manage the team<br></br>everyone wants to be on</span>
+                    <span>Manage the team<br>
+                    </br>everyone wants to be on</span>
                 </div>
                 <div className={styles.simple}>
                     <span>Simple platform that lets you master what great managers do best,<br>

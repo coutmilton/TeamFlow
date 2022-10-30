@@ -7,13 +7,14 @@
     display: flex;
 }
 
+.wrapper div {
+    margin: auto;
+}
 .chat {
     align-items: center;
 }
 
 .chat img {
-    margin-top: 61px;
-    margin-left: 165px;
     width: 657px;
     height: 518px;
 }

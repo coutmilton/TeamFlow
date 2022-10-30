@@ -6,51 +6,23 @@
 
 .wrapper {
     display: flex;
-    position: relative;
 }
 
 .logo {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
-    margin-left: 0;
     font-size: 1.5rem;
     margin-top: 4rem;
-    justify-content: center;
     cursor: pointer;
 }
 
 .menu {
     margin-top: 4rem;
+    position: relative;
     justify-content: center;
     text-align: center;
-    margin-left: 10rem;
-}
-
-@media only screen and (max-device-width: 1400px) {
-    .main {
-        margin-left: 5rem;
-        margin-right: 5rem;
-    }
-    .menu {
-        margin-left: 14rem;
-    }
-    .menu span {
-        margin-right: 0;
-    }
-}
-
-@media only screen and (max-device-width: 900px) {
-    .main {
-        margin-left: .5rem;
-        margin-right: .5rem;
-    }
-    .menu {
-        margin-top: 4rem;
-        margin-left: .5rem;
-    }
-    .menu span {
-        margin-right: 0;
-    }
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .menu span {
@@ -73,4 +45,30 @@
     font-weight: 500;
     padding: 1rem 1.4rem 1rem 1.4rem;
     cursor: pointer;
+}
+
+.menuIcon {
+    visibility: hidden;
+    margin-top: 4rem;
+    margin-left: auto;
+    font-size: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.menuIcon img{
+    height: 50px;
+}
+
+@media only screen and (max-device-width: 1350px) {
+    .menu span {
+        margin-right: 2rem;
+    }
+}
+
+@media only screen and (max-device-width: 900px) {
+    .main {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
 }
