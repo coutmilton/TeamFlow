@@ -1,6 +1,6 @@
 import styles from './topbar.module.css';
 
-function Topbar() {
+export default function Topbar() {
     return ( 
         <div className={styles.main}>
             <div className={styles.wrapper}>
@@ -21,5 +21,3 @@ function Topbar() {
         </div>
      );
 }
-
-export default Topbar;
