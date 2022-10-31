@@ -1,11 +1,11 @@
-import Topbar from './components/Topbar/Topbar.jsx'
-import Basebar from "./components/Basebar/Basebar.jsx"
-import Make from "./components/Make/Make.jsx"
-import Manage from "./components/Manage/Manage.jsx"
-import Subbar from "./components/Subbar/Subbar.jsx"
-import Team from "./components/Team/Team.jsx"
-import Why from "./components/Why/Why.jsx.jsx"
-import Work from "./components/Work/Work.jsx"
+import Topbar from "./components/Topbar/Topbar.jsx";
+import Basebar from "./components/Basebar/Basebar.jsx";
+import Make from "./components/Make/Make.jsx";
+import Manage from "./components/Manage/Manage.jsx";
+import Subbar from "./components/Subbar/Subbar.jsx";
+import Team from "./components/Team/Team.jsx";
+import Why from "./components/Why/Why.jsx";
+import Work from "./components/Work/Work.jsx";
 
 
 function App() {
@@ -25,4 +25,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
