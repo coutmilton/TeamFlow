@@ -47,19 +47,6 @@
     cursor: pointer;
 }
 
-.menuIcon {
-    visibility: hidden;
-    margin-top: 4rem;
-    margin-left: auto;
-    font-size: 10px;
-    text-align: center;
-    cursor: pointer;
-}
-
-.menuIcon img{
-    height: 50px;
-}
-
 @media only screen and (max-device-width: 1350px) {
     .menu span {
         margin-right: 2rem;
